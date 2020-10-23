@@ -2,7 +2,7 @@
 
 ## The simple Calc App
 
-[Live Site](https://app.netlify.com/sites/the-blue-calculator/overview)
+[Live Site](https://the-blue-calculator.netlify.app/)
 
 ![Calc](https://cdn.pixabay.com/photo/2016/07/29/21/42/school-1555910_960_720.png)
 
